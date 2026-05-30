@@ -1,0 +1,3 @@
+*.o
+kv_server
+.vscode/
